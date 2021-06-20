@@ -1,10 +1,14 @@
 # GRIPJAN21
 
-![GRIP21-Basic-Banking-System](https://socialify.git.ci/WaderManasi/GRIP21-Basic-Banking-System/image?description=1&issues=1&language=1&owner=1&stargazers=1&theme=Dark)
+
 
 - Task1: Basic-Banking-System
   - Frontend : HTML, CSS, Javascript
   - Backend : PHP
   - Database : MySql
+![Screenshot (317)](https://user-images.githubusercontent.com/61503734/122663716-2fbd7600-d1ba-11eb-8bb1-47dd9ced8f72.png)
+![Screenshot (318)](https://user-images.githubusercontent.com/61503734/122663706-292efe80-d1ba-11eb-8d13-2d2700615fa2.png)
+![Screenshot (319)](https://user-images.githubusercontent.com/61503734/122663709-2a602b80-d1ba-11eb-870c-762c7c9cb599.png)
+![Screenshot (320)](https://user-images.githubusercontent.com/61503734/122663710-2a602b80-d1ba-11eb-9649-7134a85df190.png)
   
-- Link : https://manasiwader.000webhostapp.com/index.php
+
