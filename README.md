@@ -1,5 +1,5 @@
 # GRIPJAN21
-As i was selected for the internship at sparks foundation.
+As i was selected for the internship at sparks foundation below is my project details.
 - Task1: Basic-Banking-System
   - Frontend : HTML, CSS, Javascript
   - Backend : PHP
