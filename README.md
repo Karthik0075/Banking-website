@@ -1,5 +1,5 @@
 # GRIPJAN21
-As i was selected for the internship @ GRIP - The Spark Foundation(TSF) for summer internship in the month of June 2021.
+As i was selected for the internship at sparks foundation.
 - Task1: Basic-Banking-System
   - Frontend : HTML, CSS, Javascript
   - Backend : PHP
